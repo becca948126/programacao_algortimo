@@ -1,0 +1,5 @@
+num1 = float(input("entre com o primeiro numero: "))
+num2 = float(input("entre com o segund numero: "))
+num3 = float(input("entre com o terceiro numero: "))
+media = (num1 + num2 + num3 / 3)
+print("a média é: ", media)
